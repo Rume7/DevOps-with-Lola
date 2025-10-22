@@ -1,4 +1,4 @@
-Hello Reader,
+Hello Lola,
 
 This is an introductory experience to using Github. 
 Lola would be making contributions.
